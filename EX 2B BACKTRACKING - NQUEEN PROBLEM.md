@@ -1,5 +1,5 @@
 # EX 2B BACKTRACKING - NQUEEN PROBLEM
-## DATE:
+## DATE:29.04.25
 ## AIM:
 To solve the N-Queen problem using backtracking, which places N queens on an N*N chessboard such that no two queens threaten each other.
 
